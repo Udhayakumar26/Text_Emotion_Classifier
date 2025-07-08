@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.ckpt
+
+# Environment and logs
+.env
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Flask server temp files
+instance/
