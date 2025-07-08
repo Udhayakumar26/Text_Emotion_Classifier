@@ -5,8 +5,9 @@ This project is a web-based application that classifies the emotional tone behin
 
 #required libraries :
  
- -pandas
+
 - numpy
+- pandas
 - keras
 - tensorflow
 - scikit-learn
